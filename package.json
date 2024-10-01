@@ -1,4 +1,5 @@
 {
+<<<<<<< HEAD
   "name": "hr-management-frontend",
   "version": "0.1.0",
   "private": true,
@@ -38,5 +39,28 @@
       "last 1 firefox version",
       "last 1 safari version"
     ]
+=======
+  "name": "hr-management-backend",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "bcrypt": "^5.1.1",
+    "bcryptjs": "^2.4.3",
+    "cors": "^2.8.5",
+    "dotenv": "^16.4.5",
+    "express": "^4.21.0",
+    "jsonwebtoken": "^9.0.2",
+    "mongoose": "^8.7.0"
+  },
+  "devDependencies": {
+    "nodemon": "^3.1.7"
+>>>>>>> 3ff8f436ff83aa85e4e129cddd4c32e7b34dd5e8
   }
 }
